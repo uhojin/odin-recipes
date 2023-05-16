@@ -1,0 +1,41 @@
+* {
+    text-align: center;
+    margin-bottom: 0;
+    font-family: Georgia, 'Times New Roman', serif;
+}
+
+ul,ol {
+    list-style-position: inside;
+    display: inline-block;
+
+}
+
+img {
+    width: 33%;
+    height: auto;
+    margin-top: .25em;
+}
+
+img.vertical {
+    width: 25%;
+}
+
+li {
+    text-align: left;
+    margin-bottom: .4em;
+}
+
+.long {
+    max-width: 50%;
+    margin: 0 auto
+}
+
+.return {
+    margin: 1em;
+    display: block;
+}
+
+h1, h2, h3 {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
